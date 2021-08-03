@@ -25,7 +25,7 @@ class monk(object):
     defence = 8
     magic = 4
 
-    # tavern
+   
 
 
 def tavern_run():
